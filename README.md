@@ -1,5 +1,3 @@
-# Manual Therapy for Wellness
+## Captivate.
 
-## A website built using React, Material UI, and Styled-Components
-
-This is a website being built for a business called Manual Therapy for Wellness. It is built using React, Material UI, and Styled-Components libraries.
+This is a fully responsive business oriented website designed by w3 Layouts and built by me. This was built with SASS, JSX, React, React-Hooks, React-Router and hosted on github pages at .https://roberttk1.github.io/Captivate/
